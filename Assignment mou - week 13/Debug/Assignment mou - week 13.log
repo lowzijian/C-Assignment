@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(360): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(456): warning C4018: '>': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(486): warning C4018: '>': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(503): warning C4018: '>': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(619): warning C4018: '<': signed/unsigned mismatch
+c:\users\lowba\desktop\assignment mou - week 13\assignment mou - week 13\source.cpp(598): warning C4101: 'theBook': unreferenced local variable
+  Assignment mou - week 13.vcxproj -> C:\Users\lowba\Desktop\Assignment mou - week 13\Debug\Assignment mou - week 13.exe
+  Assignment mou - week 13.vcxproj -> C:\Users\lowba\Desktop\Assignment mou - week 13\Debug\Assignment mou - week 13.pdb (Partial PDB)
